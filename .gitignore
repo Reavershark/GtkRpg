@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+gtkrpg.so
+gtkrpg.dylib
+gtkrpg.dll
+gtkrpg.a
+gtkrpg.lib
+gtkrpg-test-*
+*.exe
+*.o
+*.obj
+*.lst
