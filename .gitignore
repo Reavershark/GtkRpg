@@ -12,3 +12,4 @@ gtkrpg-test-*
 *.o
 *.obj
 *.lst
+gtkrpg
