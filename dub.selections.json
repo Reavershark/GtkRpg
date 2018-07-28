@@ -1,9 +1,9 @@
 {
-	"fileVersion": 1,
-	"versions": {
-		"d2sqlite3": "0.16.2",
-		"database": "0.1.7",
-		"gtk-d": "3.8.3",
-		"sqlite3": "1.0.0"
-	}
+    "fileVersion": 1,
+    "versions": {
+        "d2sqlite3": "0.16.2",
+        "database": "0.1.7",
+        "gtk-d": "3.8.3",
+        "sqlite3": "1.0.0"
+    }
 }
